@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "brzWNuVFnoAt71WY1PTw3wUIdWys5XS3nlFHptEhMeQ=",
+  "Source": "CUD01",
+  "BasePath": "_content/CUD01",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CUD01\\wwwroot",
+      "Source": "CUD01",
+      "ContentRoot": "D:\\ITI .NET\\API\\Day03\\D03\\CUD01Sol\\CUD01\\wwwroot\\",
+      "BasePath": "_content/CUD01",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

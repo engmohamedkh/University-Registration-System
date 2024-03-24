@@ -1,0 +1,292 @@
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\appsettings.json
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\CUD01.exe
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\CUD01.deps.json
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\CUD01.runtimeconfig.json
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\CUD01.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\CUD01.pdb
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\obj\Debug\net8.0\CUD01.csproj.AssemblyReference.cache
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\obj\Debug\net8.0\CUD01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\obj\Debug\net8.0\CUD01.AssemblyInfoInputs.cache
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\obj\Debug\net8.0\CUD01.AssemblyInfo.cs
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\obj\Debug\net8.0\CUD01.csproj.CoreCompileInputs.cache
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\obj\Debug\net8.0\CUD01.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\obj\Debug\net8.0\CUD01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\obj\Debug\net8.0\staticwebassets\msbuild.CUD01.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\obj\Debug\net8.0\staticwebassets\msbuild.build.CUD01.props
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CUD01.props
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CUD01.props
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\obj\Debug\net8.0\scopedcss\bundle\CUD01.styles.css
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\obj\Debug\net8.0\CUD01.csproj.CopyComplete
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\obj\Debug\net8.0\CUD01.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\obj\Debug\net8.0\refint\CUD01.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\obj\Debug\net8.0\CUD01.pdb
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\obj\Debug\net8.0\CUD01.genruntimeconfig.cache
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\obj\Debug\net8.0\ref\CUD01.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Humanizer.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\CUD01.staticwebassets.runtime.json
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sd-hmohamed\Desktop\CU\D01\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\obj\Debug\net8.0\CUD01.csproj.AssemblyReference.cache
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\obj\Debug\net8.0\CUD01.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\obj\Debug\net8.0\CUD01.AssemblyInfoInputs.cache
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\obj\Debug\net8.0\CUD01.AssemblyInfo.cs
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\obj\Debug\net8.0\CUD01.csproj.CoreCompileInputs.cache
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\obj\Debug\net8.0\CUD01.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\obj\Debug\net8.0\CUD01.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\obj\Debug\net8.0\CUD01.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\obj\Debug\net8.0\refint\CUD01.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\obj\Debug\net8.0\CUD01.pdb
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\appsettings.Development.json
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\appsettings.json
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\CUD01.staticwebassets.runtime.json
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\CUD01.exe
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\CUD01.deps.json
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\CUD01.runtimeconfig.json
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\CUD01.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\CUD01.pdb
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Azure.Core.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Azure.Identity.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Humanizer.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\System.CodeDom.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\University.Core.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\University.Infrastructure.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\University.Infrastructure.pdb
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\bin\Debug\net8.0\University.Core.pdb
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\obj\Debug\net8.0\staticwebassets.build.json
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\obj\Debug\net8.0\staticwebassets.development.json
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\obj\Debug\net8.0\staticwebassets\msbuild.CUD01.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\obj\Debug\net8.0\staticwebassets\msbuild.build.CUD01.props
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CUD01.props
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CUD01.props
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\obj\Debug\net8.0\scopedcss\bundle\CUD01.styles.css
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\obj\Debug\net8.0\CUD01.csproj.Up2Date
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\obj\Debug\net8.0\CUD01.genruntimeconfig.cache
+D:\ITI .NET\API\Day03\D03\CUD01Sol\CUD01\obj\Debug\net8.0\ref\CUD01.dll

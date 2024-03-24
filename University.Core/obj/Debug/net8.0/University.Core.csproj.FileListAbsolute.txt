@@ -1,0 +1,12 @@
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Core\bin\Debug\net8.0\University.Core.deps.json
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Core\bin\Debug\net8.0\University.Core.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Core\bin\Debug\net8.0\University.Core.pdb
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Core\obj\Debug\net8.0\University.Core.csproj.AssemblyReference.cache
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Core\obj\Debug\net8.0\University.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Core\obj\Debug\net8.0\University.Core.AssemblyInfoInputs.cache
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Core\obj\Debug\net8.0\University.Core.AssemblyInfo.cs
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Core\obj\Debug\net8.0\University.Core.csproj.CoreCompileInputs.cache
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Core\obj\Debug\net8.0\University.Core.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Core\obj\Debug\net8.0\refint\University.Core.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Core\obj\Debug\net8.0\University.Core.pdb
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Core\obj\Debug\net8.0\ref\University.Core.dll

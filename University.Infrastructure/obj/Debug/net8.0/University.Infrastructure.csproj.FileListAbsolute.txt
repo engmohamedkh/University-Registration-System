@@ -1,0 +1,17 @@
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Infrastructure\bin\Debug\net8.0\University.Infrastructure.deps.json
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Infrastructure\bin\Debug\net8.0\University.Infrastructure.runtimeconfig.json
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Infrastructure\bin\Debug\net8.0\University.Infrastructure.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Infrastructure\bin\Debug\net8.0\University.Infrastructure.pdb
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Infrastructure\bin\Debug\net8.0\University.Core.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Infrastructure\bin\Debug\net8.0\University.Core.pdb
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Infrastructure\obj\Debug\net8.0\University.Infrastructure.csproj.AssemblyReference.cache
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Infrastructure\obj\Debug\net8.0\University.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Infrastructure\obj\Debug\net8.0\University.Infrastructure.AssemblyInfoInputs.cache
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Infrastructure\obj\Debug\net8.0\University.Infrastructure.AssemblyInfo.cs
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Infrastructure\obj\Debug\net8.0\University.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Infrastructure\obj\Debug\net8.0\Universi.0BEE095E.Up2Date
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Infrastructure\obj\Debug\net8.0\University.Infrastructure.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Infrastructure\obj\Debug\net8.0\refint\University.Infrastructure.dll
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Infrastructure\obj\Debug\net8.0\University.Infrastructure.pdb
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Infrastructure\obj\Debug\net8.0\University.Infrastructure.genruntimeconfig.cache
+D:\ITI .NET\API\Day03\D03\CUD01Sol\University.Infrastructure\obj\Debug\net8.0\ref\University.Infrastructure.dll

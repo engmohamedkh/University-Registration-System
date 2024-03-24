@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI .NET\\API\\Day03\\D03\\CUD01Sol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{272E74D4-EA15-4EB1-B480-B726FAE27E65}|CUD01\\CUD01.csproj|d:\\iti .net\\api\\day03\\d03\\cud01sol\\cud01\\filters\\validationlocationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272E74D4-EA15-4EB1-B480-B726FAE27E65}|CUD01\\CUD01.csproj|solutionrelative:cud01\\filters\\validationlocationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272E74D4-EA15-4EB1-B480-B726FAE27E65}|CUD01\\CUD01.csproj|d:\\iti .net\\api\\day03\\d03\\cud01sol\\cud01\\controllers\\departmetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272E74D4-EA15-4EB1-B480-B726FAE27E65}|CUD01\\CUD01.csproj|solutionrelative:cud01\\controllers\\departmetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FBBCB0-CC6E-44EB-BBEF-E719F64E77A6}|University.Core\\University.Core.csproj|d:\\iti .net\\api\\day03\\d03\\cud01sol\\university.core\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FBBCB0-CC6E-44EB-BBEF-E719F64E77A6}|University.Core\\University.Core.csproj|solutionrelative:university.core\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272E74D4-EA15-4EB1-B480-B726FAE27E65}|CUD01\\CUD01.csproj|d:\\iti .net\\api\\day03\\d03\\cud01sol\\cud01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272E74D4-EA15-4EB1-B480-B726FAE27E65}|CUD01\\CUD01.csproj|solutionrelative:cud01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272E74D4-EA15-4EB1-B480-B726FAE27E65}|CUD01\\CUD01.csproj|d:\\iti .net\\api\\day03\\d03\\cud01sol\\cud01\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272E74D4-EA15-4EB1-B480-B726FAE27E65}|CUD01\\CUD01.csproj|solutionrelative:cud01\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FBBCB0-CC6E-44EB-BBEF-E719F64E77A6}|University.Core\\University.Core.csproj|d:\\iti .net\\api\\day03\\d03\\cud01sol\\university.core\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FBBCB0-CC6E-44EB-BBEF-E719F64E77A6}|University.Core\\University.Core.csproj|solutionrelative:university.core\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FBBCB0-CC6E-44EB-BBEF-E719F64E77A6}|University.Core\\University.Core.csproj|d:\\iti .net\\api\\day03\\d03\\cud01sol\\university.core\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FBBCB0-CC6E-44EB-BBEF-E719F64E77A6}|University.Core\\University.Core.csproj|solutionrelative:university.core\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272E74D4-EA15-4EB1-B480-B726FAE27E65}|CUD01\\CUD01.csproj|d:\\iti .net\\api\\day03\\d03\\cud01sol\\cud01\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272E74D4-EA15-4EB1-B480-B726FAE27E65}|CUD01\\CUD01.csproj|solutionrelative:cud01\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FBBCB0-CC6E-44EB-BBEF-E719F64E77A6}|University.Core\\University.Core.csproj|d:\\iti .net\\api\\day03\\d03\\cud01sol\\university.core\\iservices\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FBBCB0-CC6E-44EB-BBEF-E719F64E77A6}|University.Core\\University.Core.csproj|solutionrelative:university.core\\iservices\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FBBCB0-CC6E-44EB-BBEF-E719F64E77A6}|University.Core\\University.Core.csproj|d:\\iti .net\\api\\day03\\d03\\cud01sol\\university.core\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FBBCB0-CC6E-44EB-BBEF-E719F64E77A6}|University.Core\\University.Core.csproj|solutionrelative:university.core\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationLocationAttribute.cs",
+              "DocumentMoniker": "D:\\ITI .NET\\API\\Day03\\D03\\CUD01Sol\\CUD01\\Filters\\ValidationLocationAttribute.cs",
+              "RelativeDocumentMoniker": "CUD01\\Filters\\ValidationLocationAttribute.cs",
+              "ToolTip": "D:\\ITI .NET\\API\\Day03\\D03\\CUD01Sol\\CUD01\\Filters\\ValidationLocationAttribute.cs",
+              "RelativeToolTip": "CUD01\\Filters\\ValidationLocationAttribute.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T01:30:56.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmetController.cs",
+              "DocumentMoniker": "D:\\ITI .NET\\API\\Day03\\D03\\CUD01Sol\\CUD01\\Controllers\\DepartmetController.cs",
+              "RelativeDocumentMoniker": "CUD01\\Controllers\\DepartmetController.cs",
+              "ToolTip": "D:\\ITI .NET\\API\\Day03\\D03\\CUD01Sol\\CUD01\\Controllers\\DepartmetController.cs",
+              "RelativeToolTip": "CUD01\\Controllers\\DepartmetController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T14:52:09.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\ITI .NET\\API\\Day03\\D03\\CUD01Sol\\CUD01\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CUD01\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\ITI .NET\\API\\Day03\\D03\\CUD01Sol\\CUD01\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CUD01\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T14:52:07.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI .NET\\API\\Day03\\D03\\CUD01Sol\\CUD01\\Program.cs",
+              "RelativeDocumentMoniker": "CUD01\\Program.cs",
+              "ToolTip": "D:\\ITI .NET\\API\\Day03\\D03\\CUD01Sol\\CUD01\\Program.cs",
+              "RelativeToolTip": "CUD01\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAYwCgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T19:24:55.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\ITI .NET\\API\\Day03\\D03\\CUD01Sol\\University.Core\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "University.Core\\Models\\Department.cs",
+              "ToolTip": "D:\\ITI .NET\\API\\Day03\\D03\\CUD01Sol\\University.Core\\Models\\Department.cs",
+              "RelativeToolTip": "University.Core\\Models\\Department.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T15:00:11.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\ITI .NET\\API\\Day03\\D03\\CUD01Sol\\University.Core\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "University.Core\\Services\\StudentService.cs",
+              "ToolTip": "D:\\ITI .NET\\API\\Day03\\D03\\CUD01Sol\\University.Core\\Services\\StudentService.cs",
+              "RelativeToolTip": "University.Core\\Services\\StudentService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwD4AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T15:04:32.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\ITI .NET\\API\\Day03\\D03\\CUD01Sol\\University.Core\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "University.Core\\Services\\DepartmentService.cs",
+              "ToolTip": "D:\\ITI .NET\\API\\Day03\\D03\\CUD01Sol\\University.Core\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "University.Core\\Services\\DepartmentService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwEcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T15:04:33.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\ITI .NET\\API\\Day03\\D03\\CUD01Sol\\CUD01\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CUD01\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\ITI .NET\\API\\Day03\\D03\\CUD01Sol\\CUD01\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CUD01\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T19:26:35.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "D:\\ITI .NET\\API\\Day03\\D03\\CUD01Sol\\University.Core\\DTO\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "University.Core\\DTO\\StudentDTO.cs",
+              "ToolTip": "D:\\ITI .NET\\API\\Day03\\D03\\CUD01Sol\\University.Core\\DTO\\StudentDTO.cs",
+              "RelativeToolTip": "University.Core\\DTO\\StudentDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T15:39:26.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "D:\\ITI .NET\\API\\Day03\\D03\\CUD01Sol\\University.Core\\IServices\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "University.Core\\IServices\\IDepartmentService.cs",
+              "ToolTip": "D:\\ITI .NET\\API\\Day03\\D03\\CUD01Sol\\University.Core\\IServices\\IDepartmentService.cs",
+              "RelativeToolTip": "University.Core\\IServices\\IDepartmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T15:03:53.922Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+@CUD01_HostAddress = http://localhost:5281
+
+GET {{CUD01_HostAddress}}/api/Department/
+Accept: application/json
+
+
+###
+
+
+
+GET {{CUD01_HostAddress}}/api/department/1
+
+###
+
+POST {{CUD01_HostAddress}}/api/department
+Content-Type: application/json
+
+{
+  //Department
+}
+
+###
